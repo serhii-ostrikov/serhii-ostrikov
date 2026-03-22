@@ -8,9 +8,9 @@ I also program in my free time — mostly private projects, though
 
 ## Find me
 
-✓ 🌐 Website: [ostrikov.org](https://ostrikov.org)
-✓ 💼 LinkedIn: [linkedin.com/in/serost](https://www.linkedin.com/in/serost/)
-✓ 📮 Email: [serhii@ostrikov.org](mailto:serhii@ostrikov.org)
+✓ 🌐 Website: [ostrikov.org](https://ostrikov.org)<br>
+✓ 💼 LinkedIn: [linkedin.com/in/serost](https://www.linkedin.com/in/serost/)<br>
+✓ 📮 Email: [serhii@ostrikov.org](mailto:serhii@ostrikov.org)<br>
 
 ## Portfolio
 
