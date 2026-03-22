@@ -2,9 +2,9 @@
 
 **Senior DevOps / Cloud Engineer** — I make sure your software actually runs: reliably, securely, and without 3 AM alerts.
 
-I work and freelance, based in Ukraine 🇺🇦(UTC+2), async-friendly.
+I *work and freelance*, based in Ukraine 🇺🇦 (UTC+2), async-friendly.
 
-I also program in my free time — mostly private projects, though
+I also **program** in my free time — mostly private projects, though
 
 ## Find me
 
