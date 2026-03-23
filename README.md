@@ -4,7 +4,7 @@
 
 I *work and freelance*, based in Ukraine 🇺🇦 (UTC+2), async-friendly.
 
-I also **program** in my free time — mostly private projects, though
+I also **program a lot** in my free time, as a hobby — mostly private projects, though
 
 ## Find me
 
@@ -14,6 +14,6 @@ I also **program** in my free time — mostly private projects, though
 
 ## Portfolio
 
-✓ [ostrikov.org/portfolio](https://ostrikov.org/portfolio)
+✓ ✨ [ostrikov.org/portfolio](https://ostrikov.org/portfolio)
 
 Cloud infrastructure, migrations, CI/CD, security hardening, cost optimisation, and more.
