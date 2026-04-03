@@ -1,10 +1,12 @@
 # Hey, I'm Serhii 👋
 
-**Senior DevOps / Cloud Engineer** — I make sure your software actually runs: reliably, securely, and without 3 AM alerts.
+**AWS Platform Engineer** — I make sure your cloud actually runs: reliably, securely, and without 3 AM alerts.
 
-I *work and freelance*, based in Ukraine 🇺🇦 (UTC+2), async-friendly.
+Based in Ukraine 🇺🇦 (UTC+2). Async-friendly. Professionally allergic to flaky CI pipelines, surprise AWS bills, and infrastructure held together by the memory of someone who left two years ago.
 
-I also **program a lot** in my free time, as a hobby — mostly private projects, though
+I work freelance with startups and scale-ups — migrations, platform engineering, security, cost optimisation. AWS is my main arena. I've also wrestled with GCP, DigitalOcean, and Hetzner, but AWS is where I live.
+
+When I'm not doing that, I'm probably building something in code just for fun. Mostly private projects — the habit is real.
 
 ## Find me
 
@@ -16,4 +18,4 @@ I also **program a lot** in my free time, as a hobby — mostly private projects
 
 ✓ ✨ [ostrikov.org/portfolio](https://ostrikov.org/portfolio)
 
-Cloud infrastructure, migrations, CI/CD, security hardening, cost optimisation, and more.
+Real projects, real numbers — migrations, event-driven platforms, multi-account AWS, cost cuts. No fluff.
