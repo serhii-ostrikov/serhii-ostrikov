@@ -1,6 +1,6 @@
 # Hey, I'm Serhii 👋
 
-**DevOps Engineer** — I make sure your infra actually runs: reliably, securely, and without 3 AM alerts.
+**AWS Platform Engineer** — I make sure your infra actually runs: reliably, securely, and without 3 AM alerts.
 
 Based in Spain 🇪🇸 (UTC+2). Async-friendly. Professionally allergic to flaky CI pipelines, weird technical decisions, surprise AWS bills, security holes and infrastructure held together by the memory of someone who left two years ago.
 
@@ -8,7 +8,7 @@ Doubt my expertise? Check out my [portfolio](https://ostrikov.org/portfolio) or 
 
 **I work freelance or as a contractor** with startups and scale-ups — migrations, platform engineering, security, cost optimisation. AWS is my main arena. I've also wrestled with GCP, DigitalOcean, and Hetzner, but AWS is *mostly* where I live.
 
-When I'm not working, spending time with family or doing some sort of outdoor activity I do sit down at a keyboard *for fun, to learn through building things* — from fully featured websites on self-hosted clusters to graphics engines written from scratch. Mostly private, though.
+When I'm not working, spending time with family or doing some sort of outdoor activity I do sit down at a keyboard *for fun, to learn through building things* — from fully featured websites on self-hosted clusters to graphics engines written from scratch. I like building things myself, to broaden my technical perspective, much better sympathize with developer's struggles and not be an infra-only knowledge person. My projects are mostly private, though.
 
 ## Portfolio
 
