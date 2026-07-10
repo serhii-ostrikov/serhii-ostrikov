@@ -24,10 +24,10 @@ I am constantly learning, and certifications are a great and simple way to demon
 
 <table>
 <tr>
-<td align="center"><a href="https://www.credly.com/earner/earned/badge/fe260db4-7284-40bd-8fbd-b1ebeb4ea6ac"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="160"/></a></td>
-<td align="center"><a href="https://www.credly.com/earner/earned/badge/984f0fb0-affc-4122-aa10-dbb145dd16a5"><img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="160"/></a></td>
-<td align="center"><a href="https://www.credly.com/earner/earned/badge/08c389a0-a2bc-46b9-9dc2-6b446ff6162c"><img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="160"/></a></td>
-<td align="center"><a href="https://www.credly.com/earner/earned/badge/82a485bc-ae79-4077-881d-684936f27628"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="160"/></a></td>
+<td align="center"><a href="https://www.credly.com/badges/fe260db4-7284-40bd-8fbd-b1ebeb4ea6ac/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="160"/></a></td>
+<td align="center"><a href="https://www.credly.com/badges/984f0fb0-affc-4122-aa10-dbb145dd16a5/public_url"><img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="160"/></a></td>
+<td align="center"><a href="https://www.credly.com/badges/08c389a0-a2bc-46b9-9dc2-6b446ff6162c/public_url"><img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="160"/></a></td>
+<td align="center"><a href="https://www.credly.com/badges/82a485bc-ae79-4077-881d-684936f27628/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="160"/></a></td>
 </tr>
 </table>
 
