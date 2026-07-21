@@ -1,6 +1,6 @@
 # Hey, I'm Serhii 👋
 
-I specialize in software engineering, mostly **development on AWS** — backend and DevOps, AI integrations, Data Engineering
+I specialize in software engineering, mostly **development on AWS** — backend and DevOps, AI integrations, data engineering
 
 Based in Spain 🇪🇸 (UTC+2). Async-friendly. Professionally allergic to flaky CI pipelines, weird technical decisions, surprise AWS bills, security holes and infrastructure held together by the memory of someone who left two years ago.
 
