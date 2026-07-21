@@ -1,6 +1,6 @@
 # Hey, I'm Serhii 👋
 
-**AWS Platform Engineer** — I make sure your infra actually runs: reliably, securely, and without 3 AM alerts.
+I specialize in software engineering, mostly **development on AWS** — backend and DevOps, AI integrations, Data Engineering
 
 Based in Spain 🇪🇸 (UTC+2). Async-friendly. Professionally allergic to flaky CI pipelines, weird technical decisions, surprise AWS bills, security holes and infrastructure held together by the memory of someone who left two years ago.
 
@@ -12,7 +12,7 @@ When I'm not working, spending time with family or doing some sort of outdoor ac
 
 ## Portfolio
 
-Real projects, real numbers — migrations, event-driven platforms, multi-account AWS, cost cuts
+Projects from my well-loved clients — migrations, event-driven platforms, multi-account AWS, cost cuts
 
 ✓ ✨ [ostrikov.org/portfolio](https://ostrikov.org/portfolio)
 
